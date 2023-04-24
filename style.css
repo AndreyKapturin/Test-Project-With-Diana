@@ -15,3 +15,7 @@ header a {
 main {
   box-shadow: 0 0 10px 5px rgba(133, 133, 133, 0.527);
 }
+p {
+  border-color: blue;
+  text-decoration: double;
+}

@@ -7,3 +7,11 @@ body {
 h2 {
   border-color: aquamarine;
 }
+
+header a {
+  text-decoration: none;
+}
+
+main {
+  box-shadow: 0 0 10px 5px rgba(133, 133, 133, 0.527);
+}

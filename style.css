@@ -1,10 +1,6 @@
 body {
-    margin: 0;
-    display: grid;
-    min-height: 100vh;
-    grid-template-rows: 10vh auto 10vh;
-}
-
-main {
-    box-shadow: 0 0 10px 5px rgba(114, 114, 114, 0.507);
+  margin: 0;
+  display: grid;
+  min-height: 100vh;
+  grid-template-rows: 10vh auto 10vh;
 }

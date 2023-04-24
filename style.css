@@ -4,3 +4,6 @@ body {
   min-height: 100vh;
   grid-template-rows: 10vh auto 10vh;
 }
+h2 {
+  border-color: aquamarine;
+}
